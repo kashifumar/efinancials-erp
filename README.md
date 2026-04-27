@@ -501,9 +501,6 @@ php artisan serve
 
 Specializing in enterprise Laravel applications, multi-tenant SaaS architecture, REST API design, and financial systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashif%20Umar-blue?logo=linkedin)](https://www.linkedin.com/in/kashif-umar/)
-[![X](https://img.shields.io/badge/X-@kashif__umar-black?logo=x)](https://x.com/kashif_umar)
-
 ---
 
 > *This repository is a portfolio showcase. Sensitive configuration, credentials, and proprietary business data have been removed. The codebase demonstrates architecture patterns, module design, and engineering decisions made on a real production system.*
